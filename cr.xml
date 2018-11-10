@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section >
+	<user>
+		
+		<name>rifat</name>
+		<pass>123</pass>
+		
+	</user><user>
+		
+		<name>rahul</name>
+		<pass>456</pass>
+		
+	</user>
+	
+	
+	
+	<user>
+		
+		<name>sifat</name>
+		<pass>789</pass>
+		
+	</user>
+</section>
